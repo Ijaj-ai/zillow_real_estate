@@ -2,9 +2,7 @@
 
 
 
-[Zillow](https://www.zillow.com/)
-
-Zillow, is an American online real estate marketplace company. 
+[Zillow](https://www.zillow.com/) , is an American online real estate marketplace company. 
 In this project , I scraped the properties data from the api including following fields
 
  - ID
