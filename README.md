@@ -24,7 +24,9 @@ In this project , I scraped the properties data from the api including following
  - Longitude
  - Brooker Name
 
+## *Tools:*
 
+*Python,Scrapy*
 
 
 *It will help to campare price, analytics and for building a machine learning model on that.*
